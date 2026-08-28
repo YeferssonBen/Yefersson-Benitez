@@ -1,0 +1,6 @@
+{
+  "name": "Sistema PQRS - Promotora Sierra Morena",
+  "description": "Plataforma integral de gestión de Peticiones, Quejas, Reclamos y Sugerencias para locatarios y servicio al cliente de Promotora Sierra Morena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
